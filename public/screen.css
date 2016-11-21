@@ -4,5 +4,22 @@ html {
 
 body {
   margin: 0;
-  font: 16px / 1 sans-serif;
+  font: 20px / 1 sans-serif;
+}
+
+ul li {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+#sec1 {
+  width: 175px;
+  height: 175px;
+  border: 2px solid black;
+  margin: auto;
 }
